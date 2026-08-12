@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="24" fill="#1B4332"/>
+  <!-- Leaf shape -->
+  <path d="M50 15C50 15 25 35 25 60C25 73.8071 36.1929 85 50 85C63.8071 85 75 73.8071 75 60C75 35 50 15 50 15Z" fill="#52B788"/>
+  <!-- Leaf vein / Signal pulse -->
+  <path d="M50 30V75" stroke="#1B4332" stroke-width="4" stroke-linecap="round"/>
+  <path d="M50 45L65 35" stroke="#1B4332" stroke-width="4" stroke-linecap="round"/>
+  <path d="M50 55L35 45" stroke="#1B4332" stroke-width="4" stroke-linecap="round"/>
+  <!-- Radar signal ring -->
+  <circle cx="50" cy="50" r="38" stroke="#D8F3DC" stroke-width="3" stroke-dasharray="6 6" opacity="0.7"/>
+</svg>
